@@ -13,4 +13,6 @@ pytest==9.2.0
 Werkzeug==3.1.9
 Flask-SQLAlchemy
 psycopg
+flake8
+black
 
